@@ -1,1 +1,1 @@
-
+game.splash("Nigger")
